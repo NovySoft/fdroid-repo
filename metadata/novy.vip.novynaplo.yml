@@ -1,0 +1,13 @@
+AuthorName: 'NovySoftware'
+AuthorEmail: 'novysoftware@gmail.com'
+AuthorWebSite: "novy.software"
+Categories:
+- Science & Education
+IssueTracker: 'https://github.com/NovySoft/novyNaplo/issues'
+Name: "Novy Napl\xF3"
+SourceCode: 'https://github.com/NovySoft/novyNaplo'
+Changelog: "https://github.com/NovySoft/novyNaplo/releases"
+WebSite: 'https://novynaplo.novy.vip/'
+Bitcoin: '31qjAbZ9JdSd2MjDpAK1araUZKC47bWXtf'
+ArchivePolicy: "5 versions"
+License: MIT
