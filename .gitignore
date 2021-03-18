@@ -1,6 +1,4 @@
 config.py
-id
 keystore.jks
-.fdroid.*.txt
 tmp
 srclibs

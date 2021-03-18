@@ -1,2 +1,4 @@
-# fdroid-repo
-NovySoft's fdroid repo
+# Novy Software's fdroid repository
+
+## Telepítés/Installation
+
