@@ -1,0 +1,7 @@
+{
+    "language": "Language",
+    "title": "Using f-droid",
+    "instructions": "1. Uninstall any Novy Software application that you use.<span class='brmedium'/></span> 2. Install the f-droid apk. (<a href='https://f-droid.org/F-Droid.apk'>https://f-droid.org/F-Droid.apk</a>)<span class='brmedium'/></span> 3. Add the Novy Software repository <a href='fdroidrepos://fdroid.novy.software/repo'>Click me and open with f-droid</a><span class='brmedium'/></span>4. Search, install and enjoy Novy Software apps!",
+    "opt": "Optional",
+    "optDesc": "1. Also add the archive repo to use older versions!<br><a href='fdroidrepos://fdroid.novy.software/archive'>Click me and open with f-droid to add the archives</a>"
+}

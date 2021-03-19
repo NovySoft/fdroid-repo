@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Novy Software's fdroid repository</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>   
+    <script src="/content/index.js"></script>
+    <style>
+        body {
+            background: #181a1b !important;
+            color: white;
+        }
+
+        .container {
+            padding-top: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .brmedium { 
+            display: block; 
+            margin-bottom: 1em; 
+        } 
+        .brlarge { 
+            display: block; 
+            margin-bottom: 2em; 
+        } 
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body onload="setLang('hu')">
+    <div class="container">
+        <div style="float: right">
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle dropLang" type="button" id="dropdownMenuButton"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Nyelv
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="#" onclick="setLang('hu')">Magyar</a>
+                    <a class="dropdown-item" href="#" onclick="setLang('en')">English</a>
+                </div>
+            </div>
+        </div>
+        <h1 class="title">F-droid használata</h1>
+        <br>
+        <h4 class="instructions">
+            1. Távolítsd el az összes Novy Software alkalmazást.<span class='brmedium'/></span> 
+            2. Telepítsd az f-droid-ot (<a href='https://f-droid.org/F-Droid.apk'>https://f-droid.org/F-Droid.apk</a>)<span class='brmedium'/></span> 
+            3. Add hozzá a Novy Software repo-t: <a href='fdroidrepos://fdroid.novy.software/repo'>Kattints ide és nyiss meg f-droid-dal</a><span class='brmedium'/></span>
+            4. Keresd meg, töltsd le és élvezd a Novy Software appokat!
+        </h4>
+        <span class="brlarge"/></span>
+        <h2 class="opt">Opcionális</h2>
+        <br>
+        <h4 class="optDesc">
+            1. Add hozzá a Novy Software Archive repo-t, hogy régebbi változatokat is le tudjál tölteni!<br>
+            <a href='fdroidrepos://fdroid.novy.software/archive'>Kattints ide az archive repo hozzáadásához</a>
+        </h4>
+    </div>
+</body>

@@ -1,0 +1,7 @@
+{
+    "language": "Nyelv",
+    "title": "F-droid használata",
+    "instructions": "1. Távolítsd el az összes Novy Software alkalmazást.<span class='brmedium'/></span> 2. Telepítsd az f-droid-ot (<a href='https://f-droid.org/F-Droid.apk'>https://f-droid.org/F-Droid.apk</a>)<span class='brmedium'/></span> 3. Add hozzá a Novy Software repo-t: <a href='fdroidrepos://fdroid.novy.software/repo'>Kattints ide és nyiss meg f-droid-dal</a><span class='brmedium'/></span>4. Keresd meg, töltsd le és élvezd a Novy Software appokat!",
+    "opt": "Opcionális",
+    "optDesc": "1. Add hozzá a Novy Software Archive repo-t, hogy régebbi változatokat is le tudjál tölteni!<br><a href='fdroidrepos://fdroid.novy.software/archive'>Kattints ide az archive repo hozzáadásához</a>"
+}

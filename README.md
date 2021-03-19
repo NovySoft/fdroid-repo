@@ -1,4 +1,4 @@
 # Novy Software's fdroid repository
 
-## Telepítés/Installation
-
+## Telepítési útmutató / Installation guide: 
+[https://fdroid.novy.software/](https://fdroid.novy.software/)
